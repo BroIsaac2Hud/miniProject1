@@ -1,2 +1,2 @@
 # miniProject1
-p5js
+Three groups of differently-colored, intersecting lines, with bronze lines in thin strokes and with points from the top right corner of the screen to the right and bottom edges of the screen, blue lines diagonal left in medium strokes, and black lines vertical in thick strokes.
